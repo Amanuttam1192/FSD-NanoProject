@@ -55,3 +55,5 @@ const data = [
     text: "I Want To Go To Grandmas",
   },
 ];
+
+data.forEach(createBox);

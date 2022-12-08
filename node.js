@@ -27,3 +27,4 @@ var server = app.listen(8080,function()
 	var port =  server.address().port
 	console.log("app listening http://%s:%s", host ,port);
 })
+require().init(call);
